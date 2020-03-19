@@ -17,5 +17,11 @@ TBD.
 ## Kapan bisa bergabung?
 Saat ini juga.
 
-## Daftar Kontributor
+## Bagaimana cara mulai kontribusi?
+TBD.
+
+## Bagaimana jika saya memiliki ide usulan solusi yang belum ada?
+TBD.
+
+# Daftar Kontributor
 - Asosiasi Cloud Computing Indonesia 
