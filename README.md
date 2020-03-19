@@ -12,7 +12,7 @@ Produk/project solusi yang dibangun adalah:
 Untuk produk teknologi di atas, kami Jabar Digital Service mengundang rekan-rekan komunitas IT, software web/app developer, _system architect/analyst_, software QA, DevOps/SRE/Operations engineer, dsb untuk bisa memberikan usulan ide, _code_, infrastruktur, dsb. Relawan ini bersifat _pro-bono_.
 
 ## Bagaimana cara bergabung?
-TBD.
+TBD. Form Relawan.
 
 ## Kapan bisa bergabung?
 Saat ini juga.
@@ -21,7 +21,7 @@ Saat ini juga.
 TBD.
 
 ## Bagaimana jika saya memiliki ide usulan solusi yang belum ada?
-TBD.
+Bisa mengisi formulir/spreadsheeet berikut http://bit.ly/UsulanPikobar
 
 ## Daftar Relawan/Instansi/Komunitas Kontributor
 Kami mengucapkan terima kasih sebanyak-banyaknya dan penghargaan setinggi-tingginya untuk semua relawan, instansi, komunitas, yang ikut berkontribusi dan kolaborasi dalam kegiatan kemanusiaan ini.
