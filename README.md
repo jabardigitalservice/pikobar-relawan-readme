@@ -25,4 +25,5 @@ Bisa mengisi formulir/spreadsheeet berikut http://bit.ly/UsulanPikobar
 
 ## Daftar Relawan/Instansi/Komunitas Kontributor
 Kami mengucapkan terima kasih sebanyak-banyaknya dan penghargaan setinggi-tingginya untuk semua relawan, instansi, komunitas, yang ikut berkontribusi dan kolaborasi dalam kegiatan kemanusiaan ini.
+- Relawan COVID-19
 - Asosiasi Cloud Computing Indonesia 
