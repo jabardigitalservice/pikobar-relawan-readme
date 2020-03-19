@@ -16,7 +16,7 @@ Dalam pengembangan teknologi tersebut, kami mengundang rekan-rekan komunitas IT,
 Para relawan dapat mendaftarkan dirinya melalui pranala berikut: https://relawancovid19.id/j/pikobar-flutter-developer
 
 ### Kapan bisa bergabung menjadi relawan?
-Para relawan dapat bergabung segera
+Para relawan dapat bergabung segera.
 
 ### Bagaimana jika saya memiliki ide, usulan atau saran terkait produk Pikobar?
 Para relawan dapat memberikan ide, usulan maupun saran melalui formulir berikut: http://bit.ly/UsulanPikobar
