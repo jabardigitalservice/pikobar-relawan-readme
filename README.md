@@ -21,5 +21,5 @@ Para relawan dapat bergabung segera
 ### Bagaimana jika saya memiliki ide, usulan atau saran terkait produk Pikobar?
 Para relawan dapat memberikan ide, usulan maupun saran melalui formulir berikut: http://bit.ly/UsulanPikobar
 
-## Relawan/Instansi/Komunitas yang sudah berkontribusi
+## Ucapan terima kasih
 Kami mengucapkan ucapan terima kasih dan penghargaan setinggi-tingginya kepada semua relawan, instansi, dan komunitas yang telah berkontribusi dan berkolaborasi dalam kegiatan kemanusiaan ini.
