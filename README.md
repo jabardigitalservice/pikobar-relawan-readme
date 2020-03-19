@@ -23,5 +23,6 @@ TBD.
 ## Bagaimana jika saya memiliki ide usulan solusi yang belum ada?
 TBD.
 
-# Daftar Kontributor
+# Daftar Relawan/Instansi/Komunitas Kontributor
+Kami mengucapkan terima kasih sebanyak-banyaknya dan penghargaan setinggi-tingginya untuk semua relawan, instansi, komunitas, yang ikut berkontribusi dan kolaborasi dalam kegiatan kemanusiaan ini.
 - Asosiasi Cloud Computing Indonesia 
