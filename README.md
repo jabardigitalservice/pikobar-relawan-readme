@@ -22,4 +22,4 @@ Para relawan dapat bergabung segera
 Para relawan dapat memberikan ide, usulan maupun saran melalui formulir berikut: http://bit.ly/UsulanPikobar
 
 ## Ucapan terima kasih
-Kami mengucapkan ucapan terima kasih dan penghargaan setinggi-tingginya kepada semua relawan, instansi, dan komunitas yang telah berkontribusi dan berkolaborasi dalam kegiatan kemanusiaan ini.
+Kami mengucapkan ucapan terima kasih dan penghargaan setinggi-tingginya kepada semua relawan, instansi, dan komunitas yang telah berkontribusi dan berkolaborasi dalam kegiatan kemanusiaan ini. Seluruh usaha telah kita lakukan bersama, besar harapan kami agar kita semua dapat terhindar dari bencana ini dan semoga inisiasi untuk berkolaborasi ini masih bisa terjalin hingga seterusnya. 
