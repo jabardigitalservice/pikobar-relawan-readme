@@ -9,7 +9,7 @@ Produk/project solusi yang dibangun adalah:
 2. Mobile App (ecosystem/superapps) https://play.google.com/store/apps/details?id=id.go.jabarprov.pikobar
 
 ## Siapa itu relawan?
-Untuk produk teknologi di atas, kami Jabar Digital Service mengundang rekan-rekan komunitas IT, software web/app developer, _system architect/analyst_, DevOps/SRE/Operations engineer, dsb untuk bisa memberikan usulan ide, _code_, dsb. Relawan ini bersifat _pro-bono_.
+Untuk produk teknologi di atas, kami Jabar Digital Service mengundang rekan-rekan komunitas IT, software web/app developer, _system architect/analyst_, software QA, DevOps/SRE/Operations engineer, dsb untuk bisa memberikan usulan ide, _code_, infrastruktur, dsb. Relawan ini bersifat _pro-bono_.
 
 ## Bagaimana cara bergabung?
 TBD.
