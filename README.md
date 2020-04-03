@@ -6,8 +6,10 @@ Pikobar merupakan singkatan dari Pusat Informasi dan Koordinasi COVID-19 Jawa Ba
 
 ### Apa yang akan dikembangkan Pikobar?
 Pikobar tengah mengembangkan 2 produk teknologi berupa :
-1. Web https://pikobar.jabarprov.go.id/. [Project repository](https://github.com/jabardigitalservice/pikobar-jabarprov-go-id)
-2. Mobile App (ecosystem/superapps) https://play.google.com/store/apps/details?id=id.go.jabarprov.pikobar. [Project repository](https://github.com/jabardigitalservice/pikobar-flutter)
+1. Web https://pikobar.jabarprov.go.id/.
+    - [Project repository](https://github.com/jabardigitalservice/pikobar-jabarprov-go-id)
+2. Mobile App (ecosystem/superapps) https://play.google.com/store/apps/details?id=id.go.jabarprov.pikobar.
+    - [Project repository](https://github.com/jabardigitalservice/pikobar-flutter)
 
 ### Bagaimana cara kami membantu pemerintah?
 Dalam pengembangan teknologi tersebut, kami mengundang rekan-rekan komunitas IT, antara lain: software web/app developer, _system architect/analyst_, software QA, DevOps/SRE/Operations engineer, dsb untuk bergabung menjadi relawan dengan memberikan usulan ide, _code_, infrastruktur.
